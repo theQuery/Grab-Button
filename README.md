@@ -13,7 +13,7 @@ This program will allow you to quickly grab dropped Bones with the tap of a butt
 ## Run Program
 1. Double click on the application named "Grab".
 > If you get the "Compressed (zipped) Folders" warning, do the following:
-2. Click on "Extract All" (recommended), or click on "Run" and skip all the next steps.
+2. Click on "Extract All" (recommended), or click on "Run" and skip steps 3 and 4.
 3. Choose a destination that you can access any time, then click on "Extract".
 4. You can now open the folder that pops up and run the "Grab" application.
 > If you get "Windows protected your PC" warning, do the following:
