@@ -1,5 +1,6 @@
 # Grab Button
 This program will allow you to quickly grab dropped Bones with the tap of a button.
+
 <br />
 
 ## Download
@@ -20,6 +21,7 @@ This program will allow you to quickly grab dropped Bones with the tap of a butt
 
 Now that it's running, you will see the "GRAB" icon in your taskbar (system tray).<br />
 After completing the above steps, you can double click the application to run it any time.
+
 <br />
 
 ## Usage
