@@ -25,7 +25,7 @@ After completing the above steps, you can double click the application to run it
 <br />
 
 ## Usage
-To send the grab message, you tap the * button.<br />
+To send the grab message, you tap the "Alt" button next to the space bar.<br />
 To enable/disable the button while the application is still running, you can turn numpad on/off.<br />
 If your caps lock is enabled, the application will send "GRAB" instead of "grab".<br />
 
