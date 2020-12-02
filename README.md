@@ -16,7 +16,7 @@ This program will allow you to quickly grab dropped Bones with the tap of a butt
 > If you get "Windows protected your PC" warning, do the following:
 5. Click on "More info", and then click on "Run anyway".
 
-Now that it's running, you will see the "GRAB" icon in your taskbar (system tray).
+Now that it's running, you will see the "GRAB" icon in your taskbar (system tray).<br />
 After completing the above steps, you can double click the application to run it any time.
 
 ## Usage
