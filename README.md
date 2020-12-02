@@ -8,6 +8,6 @@ This program will allow you to quickly grab dropped Bones with the tap of a butt
 4. Double click on the program named "Grab".
 
 ## Usage
-To send the grab message, you tap the * button.
-To enable/disable the button while the program is still running, you can turn numpad on/off.
+To send the grab message, you tap the * button._
+To enable/disable the button while the program is still running, you can turn numpad on/off._
 If your caps lock is enabled, the program will send "GRAB" instead of "grab".
