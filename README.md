@@ -1,5 +1,5 @@
 # Grab Button
-This program will allow you to quickly grab dropped Bones with the tap of a button.
+This application will allow you to quickly grab dropped Bones with the tap of a button.
 
 <br />
 
@@ -10,7 +10,7 @@ This program will allow you to quickly grab dropped Bones with the tap of a butt
 4. To run it, follow the steps shown below.
 <br />
 
-## Run Program
+## Run Application
 1. Double click on the application named "Grab".
 > If you get the "Compressed (zipped) Folders" warning, do the following:
 2. Click on "Extract All" (recommended), or click on "Run" and skip steps 3 and 4.
@@ -26,8 +26,8 @@ After completing the above steps, you can double click the application to run it
 
 ## Usage
 To send the grab message, you tap the * button.<br />
-To enable/disable the button while the program is still running, you can turn numpad on/off.<br />
-If your caps lock is enabled, the program will send "GRAB" instead of "grab".<br />
+To enable/disable the button while the application is still running, you can turn numpad on/off.<br />
+If your caps lock is enabled, the application will send "GRAB" instead of "grab".<br />
 
-To exit the program completely, you right click the "GRAB" icon in your taskbar (system tray) and click on "Exit".<br />
+To exit the application completely, you right click the "GRAB" icon in your taskbar (system tray) and click on "Exit".<br />
 You can also use this method to pause it instead of using the numpad button.
