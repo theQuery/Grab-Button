@@ -16,7 +16,7 @@ This application will allow you to quickly grab dropped Bones with the tap of a 
 2. Click on "Extract All" (recommended), or click on "Run" and skip steps 3 and 4.
 3. Choose a destination that you can access any time, then click on "Extract".
 4. You can now open the folder that pops up and run the "Grab" application.
-> If you get "Windows protected your PC" warning, do the following:
+> If you get the "Windows protected your PC" warning, do the following:
 5. Click on "More info", and then click on "Run anyway".
 
 Now that it's running, you will see the "GRAB" icon in your taskbar (system tray).<br />
